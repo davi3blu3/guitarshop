@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: powderblue
+    background-color: powderblue;
     font-family: Helvetica Neue, Helvetica, sans-serif;
 }
 
@@ -18,11 +18,20 @@ body {
     background-color: white;
     border: 3px solid darkslateblue;
     border-radius: 10px;
-    padding: 5px;
+    padding: 10px;
     margin: 5px;
 }
 
-.guitar-card img{
+.guitar-name {
+    text-align: center;
+}
+.guitar-img {
     width: 350px;
 }
-
+.guitar-price {
+    color: red;
+    text-align: right;
+}
+.guitar-descp {
+    max-width: 350px;
+}
