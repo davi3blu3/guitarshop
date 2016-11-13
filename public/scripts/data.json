@@ -54,6 +54,33 @@
             },
             "price": 499.99,
             "description": "This spunky semi-hollowbody features a '57 humbucker in the bridge and a mini-humbucker in the neck for incredible versatility."
-        }
+        },
+        {
+            "name": "Gibson Flying V",
+            "img": {
+                "src": "/img/guitars/gibson_flying_v_white.jpg",
+                "alt": "gibson flying v in white"
+            },
+            "price": 1199.99,
+            "description": "This is not a lap guitar. Get off your ass, crank up the volume, and prepare to rock."
+        },
+        {
+            "name": "Jackson AT-1",
+            "img": {
+                "src": "/img/guitars/jackson_at1_blue.jpg",
+                "alt": "jackson at-1 in blue"
+            },
+            "price": 1399.99,
+            "description": "This unique rock monster features a transparent blue top over quilted maple, chrome hardware, and Kahler bridge."
+        },
+        {
+            "name": "Fender Honeyburst Stratocaser",
+            "img": {
+                "src": "/img/guitars/fender_strat_honeyburst.jpg",
+                "alt": "fender stratocaster honey burst"
+            },
+            "price": 899.99,
+            "description": "The classic three pickup stratocaster in a rare honey burst finish."
+        }                        
     ]
 }
