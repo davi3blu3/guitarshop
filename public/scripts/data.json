@@ -1,0 +1,59 @@
+{
+    "guitars": [
+        {
+            "name": "Fender American Stratocaster",
+            "img": {
+                "src": "/img/guitars/fender_strat_red.jpg",
+                "alt": "fender stratocaster candy apple red"
+            },
+            "price": 799.99,
+            "description": "This American made classic has three screaming single coil pickups and a candy apple red finish."
+        },
+        {
+            "name": "Gibson Les Paul",
+            "img": {
+                "src": "/img/guitars/gibson_les_paul_burst.jpg",
+                "alt": "gibson les paul guitar"
+            },
+            "price": 1399.99,
+            "description": "An icon of rock, this beauty has a flame maple top under a cherry sunburst. Sure to turn heads."
+        },
+        {
+            "name": "Parker Fly",
+            "img": {
+                "src": "/img/guitars/parker_fly_amber.jpeg",
+                "alt": "parker fly guitar"
+            },
+            "price": 2199.99,
+            "description": "This lightweight guitar of the future features a carbon glass-epoxy fingerboard and a custom vibrato bridge."
+        },
+        {
+            "name": "PRS Custom",
+            "img": {
+                "src": "/img/guitars/prs_custom_24_amber.jpg",
+                "alt": "prs custom 24 guitar"
+            },
+            "price": 1699.99,
+            "description": "A visual stunner with beautiful flame maple, two smoldering humbuckers, and distinctive bird fretboard inlays."
+        },
+        {
+            "name": "Jackson Soloist",
+            "img": {
+                "src": "/img/guitars/jackson_soloist_white.png",
+                "alt": "jackson soloist guitar"
+            },
+            "price": 999.99,
+            "description": "Evoke the glory days of hair metal with this shred machine. Features Floyd Rose tremolo and two blistering humbuckers."
+
+        },
+        {
+            "name": "Epiphone Ally Kat",
+            "img": {
+                "src": "/img/guitars/epiphone_alleykay.jpg",
+                "alt": "epiphone ally kat guitar"
+            },
+            "price": 499.99,
+            "description": "This spunky semi-hollowbody features a '57 humbucker in the bridge and a mini-humbucker in the neck for incredible versatility."
+        }
+    ]
+}
